@@ -16,6 +16,9 @@ bright_foreground = "#f2f8f6"
 
 selection_foreground = "#f2f8f6"
 
+hyprland_active_border = "rgba(33b8a8ee) rgba(71e4d8ee) 45deg"
+hyprland_inactive_border = "rgba(365156aa)"
+
 red = "#e16f73"
 yellow = "#d9c76b"
 orange = "#e16f73"

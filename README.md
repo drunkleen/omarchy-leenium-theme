@@ -47,26 +47,26 @@ Hosted under `github.com/drunkleen/leenium.omarchy`.
 
 | File | Applies to |
 |---|---|
-| `colors.toml` | Omarchy color definitions (terminal, UI) |
+| `colors.toml` | Omarchy palette and Hyprland window borders |
 | `btop.theme` | btop system monitor |
 | `chromium.theme` | Chromium / Chrome NTP accent |
-| `neovim.lua` | Neovim colorscheme |
-| `vscode.json` | VS Code color customizations |
+| `vscode.json` | VS Code theme setting for local theme setups |
 | `icons.theme` | Icon pack (`Yaru-olive`) |
-| `backgrounds/` | 10 wallpapers |
+| `backgrounds/` | Six wallpapers and a Wired Horizon intro |
 
 ### Backgrounds
 
-- `02-crowned.png` - digital-art crown
-- `2-night-hawks.png` - night-hawks painting
-- `creation.png` - artistic generative
-- `dark-waters.png` - moody waterscape
-- `dresden.png` - Dresden cityscape
-- `dusk-guardian.png` - dusk statue
-- `in-the-groove.png` - in-the-groove art
-- `omarchy.png` - Omarchy brand wallpaper
-- `rasht.png` - Rasht cityscape
-- `zen-boat.png` - zen lake boat
+Wired Horizon (`1-wired_horizon.png`) is the first bundled wallpaper.
+Omarchy remembers the last wallpaper you used with each theme. When Wired
+Horizon is selected and background intros and animations are enabled, Omarchy
+can play `backgrounds/intros/1-wired_horizon.mp4` on a theme switch.
+
+- `1-wired_horizon.png`
+- `crowned.png`
+- `japan_blood.png`
+- `japan_crosswire.png`
+- `japan_night.png.png`
+- `night-hawks.png`
 
 ---
 
