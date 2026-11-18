@@ -4,7 +4,7 @@
 
 **A dark Omarchy theme built from the shared Leenium palette.**
 
-Hosted under `github.com/drunkleen/leenium.omarchy`.
+Hosted under `github.com/drunkleen/omarchy-leenium-theme`.
 
 <img src="./preview.png" width="49%" alt="Leenium Omarchy preview" />
 <img src="./preview-unlock.png" width="49%" alt="Leenium Omarchy unlock preview" />
@@ -73,15 +73,15 @@ can play `backgrounds/intros/1-wired_horizon.mp4` on a theme switch.
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/drunkleen/leenium.omarchy
+omarchy theme install https://github.com/drunkleen/omarchy-leenium-theme
 ```
 
 Or manually clone into your Omarchy themes directory:
 
 ```bash
-git clone https://github.com/drunkleen/leenium.omarchy \
-  ~/.config/omarchy/themes/leenium.omarchy
-omarchy theme set leenium.omarchy
+git clone https://github.com/drunkleen/omarchy-leenium-theme \
+  ~/.config/omarchy/themes/leenium
+omarchy theme set leenium
 ```
 
 ---
